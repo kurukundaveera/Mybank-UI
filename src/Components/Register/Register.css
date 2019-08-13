@@ -1,0 +1,11 @@
+
+h1{
+    color: blue;
+}
+.registerform{
+    position: relative;
+    top:20%;
+    left:15%;
+    width: 70%;
+    padding: 0px;
+}

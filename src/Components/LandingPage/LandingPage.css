@@ -1,0 +1,5 @@
+body{
+    background: no-repeat url("../../Assets/Images/backgroundimage.jfif") ;
+    height: 100%;
+    background-size: cover;
+}

@@ -1,0 +1,11 @@
+.left{
+    float:left
+}
+.fundtransferform{
+    top:30%;
+    position: relative;
+    margin-top:100px;
+    width:80%;
+    left:10%;
+    padding:20px;
+}
